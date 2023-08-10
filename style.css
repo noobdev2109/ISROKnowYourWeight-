@@ -13,10 +13,17 @@ body {
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
   background-color: rgba(255, 255, 255, 0.178);
-  background-image: url("isro-removebg-preview.png");
-  background-repeat: no-repeat;
-  background-position: left;
-  background-size: 13%;
+}
+
+#div1{
+  position: absolute;
+  top: 5px;
+  left: 5px;
+}
+
+#div1 img{
+  display: block;
+  cursor: pointer;
 }
 
 h1 {
