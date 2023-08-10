@@ -12,6 +12,7 @@ body {
   padding: 20px;
   border-radius: 10px;
   background-color: rgba(255, 255, 255, 0);
+  color: yellow;
 }
 
 #div1{
@@ -90,6 +91,10 @@ body.dark-mode h1{
 
 body.dark-mode label{
   color: rgb(255, 196, 0);
+}
+
+body.container{
+  color: greenyellow;
 }
 
 #canvas {
