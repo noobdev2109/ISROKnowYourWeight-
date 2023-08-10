@@ -12,10 +12,11 @@ body {
   padding: 20px;
   border-radius: 10px;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
-  background-color: rgba(255, 255, 255, 0.418);
+  background-color: rgba(255, 255, 255, 0.178);
   background-image: url("isro-removebg-preview.png");
   background-repeat: no-repeat;
-  background-postion: left;
+  background-position: left;
+  background-size: 13%;
 }
 
 h1 {
@@ -78,7 +79,7 @@ body.dark-mode label{
 .fire-wrapper {
   left: 50%;
   position: absolute;
-  top: 70%;
+  top: 80%;
   transform-origin: top center;
   transform: translate(-50%, 0) rotate3d(1, 0, 0, 60deg);
   width: 3.5rem;
