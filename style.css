@@ -102,7 +102,7 @@ body.dark-mode label{
 .fire-wrapper {
   left: 50%;
   position: absolute;
-  top: 63%;
+  top: 61%;
   transform-origin: top center;
   transform: translate(-50%, 0) rotate3d(1, 0, 0, 60deg);
   width: 3.5rem;
