@@ -18,10 +18,21 @@ body {
 #div1{
   position: absolute;
   top: 5px;
-  left: 5px;
+  left: 40px;
 }
 
 #div1 img{
+  display: block;
+  cursor: pointer;
+}
+
+#div2{
+  position: absolute;
+  top: 5px;
+  right: 40px;
+}
+
+#div2 img{
   display: block;
   cursor: pointer;
 }
