@@ -81,8 +81,8 @@ body.dark-mode{
 }
 
 body.dark-mode button{
-  background-color: rgb(255, 0, 0);
-  color:white;
+  background-color: rgb(238, 255, 0);
+  color:rgb(0, 0, 0);
 }
 
 body.dark-mode h1{
@@ -107,7 +107,7 @@ body.container{
 .fire-wrapper {
   left: 50%;
   position: absolute;
-  top: 70%;
+  top: 95%;
   transform-origin: top center;
   transform: translate(-50%, 0) rotate3d(1, 0, 0, 60deg);
   width: 3.5rem;
